@@ -9,7 +9,3 @@
 ## Conteúdo
 * StyleSheet
 * Hook useState
-
-
-
-![impar350](https://user-images.githubusercontent.com/48336696/168388258-15e5b2c4-9f94-4e83-8b0e-1befc9147ecc.jpeg)

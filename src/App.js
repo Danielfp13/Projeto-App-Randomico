@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Text, SafeAreaView, TouchableOpacity, StyleSheet, View } from 'react-native';
+import { Text, SafeAreaView, TouchableOpacity, StyleSheet } from 'react-native';
 
 
 
@@ -23,7 +23,7 @@ const App = () => {
                     : style.textoImpar
             }>{paridade}</Text>
             <TouchableOpacity onPress={handleNumero} style={style.botao}>
-                <Text style={style.textoBotao}>Gerar Números</Text>
+                <Text style={style.textoBotao}>Gerar Número</Text>
             </TouchableOpacity>
 
         </SafeAreaView>
